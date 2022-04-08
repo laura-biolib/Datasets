@@ -49,3 +49,8 @@ Overall, we described an innovative CRISPR/Cas9 approach
 to improve a/B globin imbalance in thalassemic HSPCs, 
 paving the way for novel therapeutic strategies for 
 B-thal.
+
+
+### This repository
+
+This repository contains the runs for SRR13613109. These FASTQ files are the HBA2 gene amplified sequence off-target activity for Cas9 D10A. 
